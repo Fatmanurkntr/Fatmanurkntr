@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fat%C4%B1manur-kantar-11b34232b)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:fnurkantar@gmail.com)
-[![Instagram](https://img.shields.io/badge/Blog-importmymind-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/importmymind)
+
 
 </div>
 
@@ -29,9 +29,6 @@ I am a Computer Engineering student at Istanbul Medeniyet University, deeply pas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 **AI & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -64,9 +61,4 @@ I am a Computer Engineering student at Istanbul Medeniyet University, deeply pas
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatmanurkntr&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmanurkntr&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
-</div>
