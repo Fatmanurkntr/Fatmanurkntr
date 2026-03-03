@@ -37,9 +37,4 @@ I am a Computer Engineering student at Istanbul Medeniyet University, deeply pas
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Landscape Sketch to Paint](https://github.com/Fatmanurkntr/Landscape-Sketch-to-Paint)** | Generative AI model that turns sketches into realistic landscapes using **Pix2Pix GAN**. | Python, TensorFlow, Streamlit |
-| **[CampusCareer](https://github.com/Fatmanurkntr/CampusCareer)** | Serverless mobile career platform for university students. | React Native, TypeScript, Firebase |
