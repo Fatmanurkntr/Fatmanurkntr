@@ -2,20 +2,17 @@
 
 ### Hi there! <img src="./2.gif" width="35" align="center" />
     
-**Computer Engineering Student @ Istanbul Medeniyet University**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-BCA0DC?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fat%C4%B1manur-kantar-11b34232b)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-A0C4FF?style=flat-square&logo=gmail&logoColor=white)](mailto:fnurkantar@gmail.com)
-    
+<div align="center">
+  <img src="./1.gif" />
+</div>
 
 </div>
 
----
 
 ### About Me <img src="./3.gif" width="35" align="center" />
 I'm Fatımanur, a 3rd-year Computer Engineering student at Istanbul Medeniyet University. I love building smart, user-friendly software that solves real-world problems. My primary interest lies in developing **AI-powered applications** and  integrating machine learning models into mobile platforms. Beyond my focus on Artificial Intelligence, I also enjoy exploring creative coding and modern web technologies to keep my skills versatile and build well-rounded projects.
 
----
+
 
 ###  Tech Stack & Tools
 
@@ -31,9 +28,7 @@ I'm Fatımanur, a 3rd-year Computer Engineering student at Istanbul Medeniyet Un
 
 </div>
 
----
 
-<div align="center">
-  <img src="./1.gif" />
-</div>
+
+
 
