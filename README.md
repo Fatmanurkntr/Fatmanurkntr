@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Fatımanur! <img src="./mini-gif.gif" width="35" align="center" />
+### Hi there! <img src="./2.gif" width="35" align="center" />
     
 **Computer Engineering Student @ Istanbul Medeniyet University**
 
@@ -15,13 +15,12 @@
 
 ---
 
-### 👩‍💻 About Me
-
-I am a Computer Engineering student at Istanbul Medeniyet University, deeply passionate about the intersection of Artificial Intelligence and Mobile Application development. My primary focus lies in building scalable Deep Learning models and integrating them into user-friendly mobile interfaces to create efficient on-device AI solutions. Beyond my academic and professional focus on AI, I enjoy exploring creative coding and developing web projects as a hobby to broaden my technical versatility and keep up with modern web technologies.
+### About Me
+I'm Fatımanur, a 3rd-year Computer Engineering student at Istanbul Medeniyet University. I love building smart, user-friendly software that solves real-world problems. My primary interest lies in developing **AI-powered applications** and seamlessly integrating machine learning models into mobile platforms. Beyond my focus on Artificial Intelligence, I also enjoy exploring creative coding and modern web technologies to keep my skills versatile and build well-rounded projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
 
