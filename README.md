@@ -7,9 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-BCA0DC?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fat%C4%B1manur-kantar-11b34232b)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-A0C4FF?style=flat-square&logo=gmail&logoColor=white)](mailto:fnurkantar@gmail.com)
     
-<br>
-    
-<img src="./center-gif.gif" width="600" style="border-radius: 15px;" />
 
 </div>
 
