@@ -36,5 +36,7 @@ I'm Fatımanur, a 3rd-year Computer Engineering student at Istanbul Medeniyet Un
 
 ---
 
-<img src="./1.gif"  align="center" />
+<div align="center">
+  <img src="./1.gif" />
+</div>
 
