@@ -15,7 +15,7 @@
 
 ---
 
-### About Me
+### About Me <img src="./3.gif" width="35" align="center" />
 I'm Fatımanur, a 3rd-year Computer Engineering student at Istanbul Medeniyet University. I love building smart, user-friendly software that solves real-world problems. My primary interest lies in developing **AI-powered applications** and seamlessly integrating machine learning models into mobile platforms. Beyond my focus on Artificial Intelligence, I also enjoy exploring creative coding and modern web technologies to keep my skills versatile and build well-rounded projects.
 
 ---
@@ -35,4 +35,6 @@ I'm Fatımanur, a 3rd-year Computer Engineering student at Istanbul Medeniyet Un
 </div>
 
 ---
+
+<img src="./1.gif" width="35" align="center" />
 
